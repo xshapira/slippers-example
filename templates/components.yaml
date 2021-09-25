@@ -1,0 +1,5 @@
+components:
+  navbar: "components/navbar.html"
+  card: "components/card.html"
+  card_components: "components/card-components.html"
+  button: "components/button.html"
